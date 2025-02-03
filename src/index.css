@@ -16,10 +16,15 @@ h2 {
   border-radius: 12px;
   max-width: 300px;
   overflow: auto;
+  margin: 1em;
 }
 
 .card img {
   max-width: 100%;
   display: block;
   object-fit: cover;
+}
+
+.citation {
+  padding: 1em;
 }
